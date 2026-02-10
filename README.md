@@ -25,3 +25,9 @@ The methodology confirms that the plaintext was scrambled (transposed) prior to 
 "BETWEEN THE CLOCK AND THE NORTHEAST... THE AREA IS BURIED... USE THE NUMBER... THE SHADOW FALLS AT THE BERLIN CLOCK... TO REVEAL THE RADIUS... UNDERGRUUND."
 "...SET THE EAST-NORTHEAST HOUR BY BEARING BERLIN CLOCK..."
 
+As Sanborn said the Cipher decrypts as an onion peel, this is just the first layer of the decrypt. The detailed method applied also provide for rectification of calculus errors and further deciphers the co-ordinates and solve this years-old mystery to the accuracy.
+
+(For timestamp purpose it is published it on GitHub repository at https://github.com/kaawyawawge/KryptosK4 )
+
+The detailed explanation with accurate finding of the coordinates and inter-applications deciphering the complete K4 code along with proof and justifications is published on GitHub at https://github.com/kaawyawawge/KryptosK4/blob/d2b9dbae9940bbcb9c77f105fa3d3f0e0c8b172a/full%20explaination%20Kryptos%20K4%20Deciphered%20by%20Kaawya.pdf
+
